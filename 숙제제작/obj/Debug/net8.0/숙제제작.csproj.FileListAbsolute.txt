@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\숙제제작\숙제제작\obj\Debug\net8.0\숙제제작.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\숙제제작\숙제제작\obj\Debug\net8.0\숙제제작.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\숙제제작\숙제제작\obj\Debug\net8.0\숙제제작.AssemblyInfo.cs
+C:\Users\User\source\repos\숙제제작\숙제제작\obj\Debug\net8.0\숙제제작.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\숙제제작\숙제제작\bin\Debug\net8.0\숙제제작.exe
+C:\Users\User\source\repos\숙제제작\숙제제작\bin\Debug\net8.0\숙제제작.deps.json
+C:\Users\User\source\repos\숙제제작\숙제제작\bin\Debug\net8.0\숙제제작.runtimeconfig.json
+C:\Users\User\source\repos\숙제제작\숙제제작\bin\Debug\net8.0\숙제제작.dll
+C:\Users\User\source\repos\숙제제작\숙제제작\bin\Debug\net8.0\숙제제작.pdb
+C:\Users\User\source\repos\숙제제작\숙제제작\obj\Debug\net8.0\숙제제작.dll
+C:\Users\User\source\repos\숙제제작\숙제제작\obj\Debug\net8.0\refint\숙제제작.dll
+C:\Users\User\source\repos\숙제제작\숙제제작\obj\Debug\net8.0\숙제제작.pdb
+C:\Users\User\source\repos\숙제제작\숙제제작\obj\Debug\net8.0\숙제제작.genruntimeconfig.cache
+C:\Users\User\source\repos\숙제제작\숙제제작\obj\Debug\net8.0\ref\숙제제작.dll
